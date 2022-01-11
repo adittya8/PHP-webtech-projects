@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "Shushi",
+        "price": "1000",
+        "address": "silay city",
+        "type": "Food"
+    },
+    {
+        "id": "2",
+        "name": "Oats",
+        "price": "1500",
+        "address": "carmen, bohol",
+        "type": "Food"
+    },
+    {
+        "id": "3",
+        "name": "Ice cream",
+        "price": "200",
+        "address": "bacolod",
+        "type": "Food"
+    },
+    {
+        "id": "4",
+        "name": "Dano milk powder",
+        "price": "450",
+        "address": "eb magalona",
+        "type": "Food"
+    },
+    {
+        "id": "5",
+        "name": "Oil",
+        "price": "500",
+        "address": "talisay",
+        "type": "Food"
+    },
+    {
+        "id": "6",
+        "name": "Nuts",
+        "price": "600",
+        "address": "silay city",
+        "type": "Food"
+    },
+    {
+        "id": "208",
+        "name": "Ramen",
+        "price": "200",
+        "address": "Bangladesh",
+        "type": "Food"
+    },
+    {
+        "id": "45",
+        "name": "soabin",
+        "price": "45",
+        "address": "",
+        "type": ""
+    }
+]
